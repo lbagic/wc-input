@@ -1,9 +1,9 @@
 {
-  "name": "wc-input",
+  "name": "@lbagic/wc-input",
   "description": "Webcomponent wc-input following open-wc recommendations",
   "license": "MIT",
-  "author": "wc-input",
-  "version": "0.0.0",
+  "author": "lbagic",
+  "version": "0.0.1",
   "type": "module",
   "main": "dist/src/index.js",
   "module": "dist/src/index.js",
